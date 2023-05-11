@@ -1,5 +1,13 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Annitta 
-Welcome!! 😊I’m Annitta 📌 Front-End Developer, Data Analyst and Scrum Master 🚀 SQL, JavaScript, HTML, CSS, React framework 📭 let’s collaborate! www.linkedin.com/in/annitta-musendo  * 🌍  I'm based in Spain * ✉️  You can contact me at [cmusendo37@gmail.com](mailto:cmusendo37@gmail.com) * 🧠  I'm learning JavaScript * 🤝  I'm open to collaborating on Any and all Front End projects * ⚡  "Dobby is a free elf, and Dobby has come to work with your company and team!
+
+Welcome!
+😊I’m Annitta 
+📌 Front-End Developer, Data Analyst and Scrum Master 
+🚀 SQL, JavaScript, HTML, CSS, React framework 
+📭 let’s collaborate! www.linkedin.com/in/annitta-musendo  *
+🌍  I'm based in Spain * ✉️  You can contact me at [cmusendo37@gmail.com](mailto:cmusendo37@gmail.com) * 
+🧠  I'm learning JavaScript * 🤝  I'm open to collaborating on Any and all Front End projects * 
+⚡  "Dobby is a free elf, and Dobby has come to work with your company and team!
 
 Skills  
 
