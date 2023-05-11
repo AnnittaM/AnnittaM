@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Annitta 
 
 Welcome!
-😊I’m Annitta 
+😊pleased to have you here
 📌 Front-End Developer, Data Analyst and Scrum Master 
 🚀 SQL, JavaScript, HTML, CSS, React framework 
 📭 let’s collaborate! www.linkedin.com/in/annitta-musendo  *
